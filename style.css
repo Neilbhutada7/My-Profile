@@ -1,0 +1,62 @@
+.name{
+  font-size: 75px;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: #FF6D1F;
+  
+}
+
+.my-img{
+  border-radius: 10%;
+}
+.nav1{
+  background-color: #222222;
+}
+.home{
+  background-color: #F5E7C6;
+  color: #222222;
+}
+.sec-nav{
+  color: #FAF3E1;
+}
+.cover-page{
+  background-color: #222222;
+}
+.cover{
+  background-color: #FAF3E1;
+}
+.features-heading{
+  color: #000000;
+}
+.features{
+  background-color: #222222;
+}
+.border-bottom{
+  color: #F5E7C6;
+  font-family: "Caveat", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3rem;
+}
+.container-cer{
+  background-color: #222222;
+}
+.marksheets{
+  color: #EEEEEE;
+}
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.cv{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
